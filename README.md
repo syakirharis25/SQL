@@ -35,6 +35,7 @@ SQL AND, OR and NOT Operators by w3schools.com : https://www.w3schools.com/sql/s
 SQL ORDER BY Keyword by w3schools.com : https://www.w3schools.com/sql/sql_orderby.asp <br />
 SQL ASC Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_asc.asp <br />
 SQL LIKE Operator by w3schools.com : https://www.w3schools.com/sql/sql_like.asp <br />
+SQL Wildcards by w3schools.com : https://www.w3schools.com/sql/sql_wildcards.asp <br />
 
 **_SQL related articles_** <br />
 What a Relational Database Is by oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
