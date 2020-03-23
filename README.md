@@ -55,9 +55,11 @@ SQL WHERE AND, OR, NOT Clause by dofactory : https://www.dofactory.com/sql/where
 What a Relational Database Is by oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
 SQL DESC Keyword by essentialSQL : https://www.essentialsql.com/sql-reference/sql-desc-keyword/ <br />
 SQLite vs MySQL vs PostgreSQL: A Comparison Of Relational Database Management Systems by DigitalOcean : https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems <br />
+SQL IS Operator by ZENTUT : https://www.zentut.com/sql-tutorial/sql-is/ <br />
 
 **_SQL questions and answers by Stack Overflow_** <br />
 SQL server - delete rows where multiple columns have either null or zero value by Stack Overflow : https://stackoverflow.com/questions/4962914/sql-server-delete-rows-where-multiple-columns-have-either-null-or-zero-value <br />
+How do the SQL “IS” and “=” operators differ? by Stack Overflow : https://stackoverflow.com/questions/5423751/how-do-the-sql-is-and-operators-differ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
