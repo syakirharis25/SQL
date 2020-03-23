@@ -40,6 +40,7 @@ SQL INSERT INTO Statement by w3schools.com : https://www.w3schools.com/sql/sql_i
 SQL VALUES Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_values.asp <br />
 SQL DELETE Statement by w3schools.com : https://www.w3schools.com/sql/sql_delete.asp <br />
 SQL UPDATE Statement by w3schools.com : https://www.w3schools.com/sql/sql_update.asp <br />
+SQL SET Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_set.asp <br />
 
 **_SQL related articles_** <br />
 What a Relational Database Is by oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
