@@ -46,6 +46,7 @@ SQL UPDATE Statement by w3schools.com : https://www.w3schools.com/sql/sql_update
 SQL SET Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_set.asp <br />
 SQL OR Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_or.asp <br />
 SQL CREATE TABLE Statement by w3schools.com : https://www.w3schools.com/sql/sql_create_table.asp <br />
+SQL DROP TABLE Statement by w3schools.com : https://www.w3schools.com/sql/sql_drop_table.asp <br />
 
 **_SQL documentation by dofactory_** <br />
 SQL SELECT DISTINCT Statement by dofactory : https://www.dofactory.com/sql/select-distinct <br />
