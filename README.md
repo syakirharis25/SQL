@@ -41,6 +41,7 @@ SQL VALUES Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_valu
 SQL DELETE Statement by w3schools.com : https://www.w3schools.com/sql/sql_delete.asp <br />
 SQL UPDATE Statement by w3schools.com : https://www.w3schools.com/sql/sql_update.asp <br />
 SQL SET Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_set.asp <br />
+SQL OR Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_or.asp <br />
 
 **_SQL documentation by dofactory_** <br />
 SQL SELECT DISTINCT Statement by dofactory : https://www.dofactory.com/sql/select-distinct <br />
