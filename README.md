@@ -37,6 +37,7 @@ SQL ORDER BY Keyword by w3schools.com : https://www.w3schools.com/sql/sql_orderb
 **_SQL related articles_** <br />
 What a Relational Database Is by oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
 SQL SELECT DISTINCT Statement by dofactory : https://www.dofactory.com/sql/select-distinct <br />
+SQL DESC Keyword by essentialSQL : https://www.essentialsql.com/sql-reference/sql-desc-keyword/ <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
