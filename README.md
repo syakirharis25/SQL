@@ -37,6 +37,7 @@ SQL ASC Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_asc.asp
 SQL LIKE Operator by w3schools.com : https://www.w3schools.com/sql/sql_like.asp <br />
 SQL Wildcards by w3schools.com : https://www.w3schools.com/sql/sql_wildcards.asp <br />
 SQL INSERT INTO Statement by w3schools.com : https://www.w3schools.com/sql/sql_insert.asp <br />
+SQL VALUES Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_values.asp <br />
 
 **_SQL related articles_** <br />
 What a Relational Database Is by oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
